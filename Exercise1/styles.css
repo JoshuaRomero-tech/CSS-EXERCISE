@@ -10,9 +10,9 @@ body {
 }
 
 .txt {
-  text-align-last: center;
   font-family: sans-serif;
   font-size: 45px;
+  text-align-last: center;
 }
 
 .boxes {
