@@ -1,0 +1,32 @@
+.flexcontainer {
+  display: flex;
+}
+
+.box1 {
+    background-color: aquamarine;
+    width: 200px;
+    height: 150px;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 10px;
+  }
+  
+  .box2 {
+    background-color: aqua;
+    width: 200px;
+    height: 150px;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 10px;
+  }
+
+  .box3 {
+    background-color: blue;
+    width: 200px;
+    height: 150px;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 10px;
+  }
+  
+  
