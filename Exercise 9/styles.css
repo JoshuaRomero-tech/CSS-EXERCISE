@@ -1,0 +1,21 @@
+.box {
+    display: inline-block;
+    padding: 110px;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+    text-align: center;
+}
+
+.parent-box {
+    padding: 120px;
+    border: 3px solid #0077cc;
+    background-color: #cce6ff;
+    font-weight: bold;
+}
+
+.child-box {
+    padding: 110px;
+    border: 2px solid #0077cc;
+    background-color: #e6ffcc;
+    font-weight: bold;
+}
